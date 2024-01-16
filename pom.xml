@@ -10,7 +10,7 @@
 
     <groupId>com.7aske.grain</groupId>
     <artifactId>grain-fertilizer-thymeleaf</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1-SNAPSHOT</version>
 
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
